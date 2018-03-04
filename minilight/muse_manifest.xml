@@ -1,0 +1,172 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://deanmcreative.com/minilight" resolutions="1x" timestamp="1520154904951">
+  <folder name="css">
+    <file name="site_global.css" crc="163140336"/>
+    <file name="master_static-bg---all.css" crc="3994028383" ref="index"/>
+    <file name="master_no-bg.css" crc="135738188" ref="catalogue:gallery"/>
+    <file name="catalogue.css" crc="3763367680" ref="catalogue"/>
+    <file name="gallery.css" crc="3783362385" ref="gallery"/>
+    <file name="index.css" crc="3810345162" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:catalogue:gallery"/>
+    <file name="museutils.js" crc="4216313831" ref="index:catalogue:gallery"/>
+    <file name="whatinput.js" crc="86476730" ref="index:catalogue:gallery"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:catalogue:gallery"/>
+    <file name="webpro.js" crc="4143865194" ref="index:catalogue:gallery"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index:catalogue:gallery"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index:catalogue:gallery"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index:catalogue:gallery"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:catalogue:gallery"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:catalogue:gallery"/>
+    <file name="require.js" crc="3951022091" ref="index:catalogue:gallery"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="catalogue"/>
+  </folder>
+  <folder name="images">
+    <file name="static-bg---all-favicon.ico" crc="143124211" ref="index"/>
+    <file name="simple-logo-white-01.png" crc="52488521" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg.jpg" crc="4111484082" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="no-bg-favicon.ico" crc="143124211" ref="catalogue"/>
+    <file name="std-ml-eastcoastpalms-01-u13201.png" crc="3893894818" ref="catalogue"/>
+    <file name="cust-ml-neondeco-01-u13203.png" crc="144511403" ref="catalogue"/>
+    <file name="ltd-ml-aotearoa-01-u13205.png" crc="3854319503" ref="catalogue"/>
+    <file name="ltd-ml-inbloom-01-u13207.png" crc="4164771865" ref="catalogue"/>
+    <file name="ltd-ml-movienight-01-u13209.png" crc="4027007155" ref="catalogue"/>
+    <file name="rare-ml-flamingodeluxe-01-u13211.png" crc="283169651" ref="catalogue"/>
+    <file name="rare-ml-virtualparadise-01-u13213.png" crc="3971612132" ref="catalogue"/>
+    <file name="std-ml-cocktailbar-01-u13215.png" crc="378625655" ref="catalogue"/>
+    <file name="std-ml-coffeeshop-01-u13217.png" crc="304503914" ref="catalogue"/>
+    <file name="urare-ml-retrofuture-01-u13219.png" crc="3990752206" ref="catalogue"/>
+    <file name="ml-catalogue-logo-01.png" crc="3923149563" seo="true" ref="catalogue">
+      <caption webpage="catalogue" alt=""/>
+    </file>
+    <file name="colour-09.png" crc="3888701715" seo="true" ref="catalogue">
+      <caption webpage="catalogue" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="catalogue:gallery"/>
+    <file name="colour-07.png" crc="4003605280" seo="true" ref="catalogue">
+      <caption webpage="catalogue" alt=""/>
+    </file>
+    <file name="colour-08.png" crc="3997370149" seo="true" ref="catalogue">
+      <caption webpage="catalogue" alt=""/>
+    </file>
+    <file name="colour-01.png" crc="519788376" seo="true" ref="catalogue">
+      <caption webpage="catalogue" alt=""/>
+    </file>
+    <file name="colour-02.png" crc="3878535429" seo="true" ref="catalogue">
+      <caption webpage="catalogue" alt=""/>
+    </file>
+    <file name="colour-03.png" crc="262370428" seo="true" ref="catalogue">
+      <caption webpage="catalogue" alt=""/>
+    </file>
+    <file name="colour-04.png" crc="477229417" seo="true" ref="catalogue">
+      <caption webpage="catalogue" alt=""/>
+    </file>
+    <file name="colour-05.png" crc="4132403829" seo="true" ref="catalogue">
+      <caption webpage="catalogue" alt=""/>
+    </file>
+    <file name="colour-06.png" crc="3969999277" seo="true" ref="catalogue">
+      <caption webpage="catalogue" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="catalogue:gallery"/>
+    <file name="ml-reflection-dark.jpg" crc="135031893" ref="catalogue">
+      <caption webpage="catalogue" alt=""/>
+    </file>
+    <file name="ml-gallery-logo-01.png" crc="150453224" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="rear2.jpg" crc="4175439307" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="rear.jpg" crc="298055540" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="plugs.jpg" crc="3766148102" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="side.jpg" crc="397637266" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="corner.jpg" crc="3791054459" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="whoknows.jpg" crc="392358808" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="remote.jpg" crc="511905377" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="purple.jpg" crc="469845839" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="eastcoastpalms-front.jpg" crc="3828800395" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="palms-cocktails-redblue.jpg" crc="417709925" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="palms-cocktails-red.jpg" crc="471322111" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cutepackage.jpg" crc="499296458" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="physicalmedia.jpg" crc="4170936219" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="floor.jpg" crc="3918336469" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="rear2470x470.jpg" crc="3956043045" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="rear470x470.jpg" crc="4037999635" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="plugs470x470.jpg" crc="3168694" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="side470x470.jpg" crc="3894127484" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="corner470x470.jpg" crc="308169850" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="whoknows470x470.jpg" crc="3920925696" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="remote470x470.jpg" crc="38497040" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="purple470x470.jpg" crc="3842883186" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="eastcoastpalms-front470x470.jpg" crc="4039465892" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="palms-cocktails-redblue470x470.jpg" crc="519193001" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="palms-cocktails-red470x470.jpg" crc="4037960366" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cutepackage470x470.jpg" crc="4095873559" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="physicalmedia470x470.jpg" crc="3885930206" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="floor470x470.jpg" crc="3841367127" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="ml-angle-bg.jpg" crc="478394358" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="244146763" seo="true" mt="1515747253184" redirect="true"/>
+  <file name="catalogue.html" crc="282165140" seo="true" mt="1515747253183" redirect="true"/>
+  <file name="gallery.html" crc="3774313960" seo="true" mt="1516701152762" redirect="true"/>
+</manifest>
