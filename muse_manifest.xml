@@ -1,0 +1,174 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.deanmcreative.com" resolutions="1x" timestamp="1520340629877">
+  <folder name="css">
+    <file name="site_global.css" crc="3822256153"/>
+    <file name="master_a-master.css" crc="274813227" ref="graphicdesign:fonts:videos:wallpapers:index:albumart"/>
+    <file name="graphicdesign.css" crc="435710747" ref="graphicdesign"/>
+    <file name="fonts.css" crc="3947477472" ref="fonts"/>
+    <file name="videos.css" crc="3992520995" ref="videos"/>
+    <file name="wallpapers.css" crc="4139254071" ref="wallpapers"/>
+    <file name="index.css" crc="4176082243" ref="index"/>
+    <file name="albumart.css" crc="3996089958" ref="albumart"/>
+  </folder>
+  <folder name="fonts">
+    <file name="acumin pro semicondensed light.woff" crc="475252969"/>
+    <file name="acumin pro semicondensed light.eot" crc="170240441"/>
+    <file name="acumin pro semicondensed light.svg" crc="15128601"/>
+    <file name="acumin pro semicondensed light italic.woff" crc="4117105800"/>
+    <file name="acumin pro semicondensed light italic.eot" crc="201514722"/>
+    <file name="acumin pro semicondensed light italic.svg" crc="20920280"/>
+    <file name="acumin pro semicondensed thin.woff" crc="3861710700"/>
+    <file name="acumin pro semicondensed thin.eot" crc="4139376709"/>
+    <file name="acumin pro semicondensed thin.svg" crc="490600922"/>
+    <file name="acumin pro semicondensed.woff" crc="403422991"/>
+    <file name="acumin pro semicondensed.eot" crc="4184349887"/>
+    <file name="acumin pro semicondensed.svg" crc="4065691782"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:wallpapers:fonts:albumart:videos:graphicdesign"/>
+    <file name="museutils.js" crc="4216313831" ref="index:wallpapers:fonts:albumart:videos:graphicdesign"/>
+    <file name="whatinput.js" crc="86476730" ref="index:wallpapers:fonts:albumart:videos:graphicdesign"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:wallpapers:fonts:albumart:videos:graphicdesign"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:wallpapers:fonts:albumart:videos:graphicdesign"/>
+    <file name="require.js" crc="3951022091" ref="index:wallpapers:fonts:albumart:videos:graphicdesign"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="143124211" ref="index"/>
+    <file name="u11039-5.png" crc="251611805" ref="index:wallpapers:fonts:albumart:videos:graphicdesign"/>
+    <file name="simple-logo-black-01.png" crc="4069282382" seo="true" ref="index:wallpapers:fonts:albumart:videos:graphicdesign">
+      <caption webpage="index" alt=""/>
+      <caption webpage="albumart" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="wallpapers" alt=""/>
+      <caption webpage="fonts" alt=""/>
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="rtp-c4dlogotrans-01.png" crc="147634382" seo="true" ref="index:wallpapers:fonts:albumart:videos:graphicdesign">
+      <caption webpage="index" alt=""/>
+      <caption webpage="albumart" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="wallpapers" alt=""/>
+      <caption webpage="fonts" alt=""/>
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="corrupted nanomachine.jpg" crc="3914124231" seo="true" ref="wallpapers">
+      <caption webpage="wallpapers" alt=""/>
+    </file>
+    <file name="reversing entropy.jpg" crc="70080044" seo="true" ref="wallpapers">
+      <caption webpage="wallpapers" alt=""/>
+    </file>
+    <file name="the vault.jpg" crc="35684599" seo="true" ref="wallpapers">
+      <caption webpage="wallpapers" alt=""/>
+    </file>
+    <file name="final hours of breakneck city.jpg" crc="364394874" seo="true" ref="wallpapers">
+      <caption webpage="wallpapers" alt=""/>
+    </file>
+    <file name="chroma chompa.jpg" crc="136999822" seo="true" ref="wallpapers">
+      <caption webpage="wallpapers" alt=""/>
+    </file>
+    <file name="mineralism.jpg" crc="4087110033" seo="true" ref="wallpapers">
+      <caption webpage="wallpapers" alt=""/>
+    </file>
+    <file name="perfect replacement.jpg" crc="4055856646" seo="true" ref="wallpapers">
+      <caption webpage="wallpapers" alt=""/>
+    </file>
+    <file name="end of the tunnel.jpg" crc="3966081431" seo="true" ref="wallpapers">
+      <caption webpage="wallpapers" alt=""/>
+    </file>
+    <file name="global conspiracy.jpg" crc="261532194" seo="true" ref="wallpapers">
+      <caption webpage="wallpapers" alt=""/>
+    </file>
+    <file name="relic.jpg" crc="3838711941" seo="true" ref="wallpapers">
+      <caption webpage="wallpapers" alt=""/>
+    </file>
+    <file name="the reflex.jpg" crc="4112515791" seo="true" ref="wallpapers">
+      <caption webpage="wallpapers" alt=""/>
+    </file>
+    <file name="jellytip.jpg" crc="4127537821" seo="true" ref="wallpapers">
+      <caption webpage="wallpapers" alt=""/>
+    </file>
+    <file name="untouched.jpg" crc="3819558068" seo="true" ref="wallpapers">
+      <caption webpage="wallpapers" alt=""/>
+    </file>
+    <file name="atom-land-2017.jpg" crc="262128482" seo="true" ref="wallpapers">
+      <caption webpage="wallpapers" alt=""/>
+    </file>
+    <file name="rtp-infinity-2017.jpg" crc="3782846777" seo="true" ref="wallpapers">
+      <caption webpage="wallpapers" alt=""/>
+    </file>
+    <file name="4909-city.jpg" crc="257595120" seo="true" ref="wallpapers">
+      <caption webpage="wallpapers" alt=""/>
+    </file>
+    <file name="decoy-examples-05.png" crc="4289330274" seo="true" ref="fonts">
+      <caption webpage="fonts" alt=""/>
+    </file>
+    <file name="decoy-dmc-examples-02.jpg" crc="79916938" seo="true" ref="fonts">
+      <caption webpage="fonts" alt=""/>
+    </file>
+    <file name="decoy-dmc-examples-03.jpg" crc="4040679852" seo="true" ref="fonts">
+      <caption webpage="fonts" alt=""/>
+    </file>
+    <file name="noartificialsweeteners-sm.jpg" crc="4083192122" seo="true" ref="albumart">
+      <caption webpage="albumart" alt=""/>
+    </file>
+    <file name="breakneck city - album art.jpg" crc="500199301" seo="true" ref="albumart">
+      <caption webpage="albumart" alt=""/>
+    </file>
+    <file name="4909-artwork.jpg" crc="218789620" seo="true" ref="albumart">
+      <caption webpage="albumart" alt=""/>
+    </file>
+    <file name="defendr-scrapyard.jpg" crc="193462143" seo="true" ref="albumart">
+      <caption webpage="albumart" alt=""/>
+    </file>
+    <file name="sharpsteel-01.jpg" crc="514792375" seo="true" ref="albumart">
+      <caption webpage="albumart" alt=""/>
+    </file>
+    <file name="wom-01.jpg" crc="481444340" seo="true" ref="albumart">
+      <caption webpage="albumart" alt=""/>
+    </file>
+    <file name="artwork.jpg" crc="369286701" seo="true" ref="albumart">
+      <caption webpage="albumart" alt=""/>
+    </file>
+    <file name="defendr-deleted.jpg" crc="363449887" seo="true" ref="albumart">
+      <caption webpage="albumart" alt=""/>
+    </file>
+    <file name="is16.jpg" crc="3993622417" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="isat.jpg" crc="4158935222" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="poster-2.jpg" crc="4047394423" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="posters-day.jpg" crc="3784054246" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="shortcourses.jpg" crc="4218816986" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="yn.jpg" crc="247230037" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="hbf.jpg" crc="4182831677" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="4909-cd.jpg" crc="322441623" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="defendr-logo-crop-u9555.jpg" crc="122600423" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="is3.jpg" crc="3830749480" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="2017-social-breakneck-crop-u9506.jpg" crc="296588002" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4016047726" seo="true" mt="1520339698849" redirect="true"/>
+  <file name="wallpapers.html" crc="4070964645" seo="true" mt="1520339698849" redirect="true"/>
+  <file name="fonts.html" crc="3859896097" seo="true" mt="1520340048328" redirect="true"/>
+  <file name="albumart.html" crc="297053257" seo="true" mt="1520340165044" redirect="true"/>
+  <file name="videos.html" crc="3926754668" seo="true" mt="1520340222172" redirect="true"/>
+  <file name="graphicdesign.html" crc="44980410" seo="true" mt="1520340260745" redirect="true"/>
+</manifest>

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.deanmcreative.com/index.html</loc>
-    <lastmod>2018-01-12</lastmod>
+    <lastmod>2018-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -10,32 +10,11 @@
     </image:image>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/rtp-c4dlogotrans-01.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://www.deanmcreative.com/fonts.html</loc>
-    <lastmod>2018-01-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/simple-logo-black-01.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/rtp-c4dlogotrans-01.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/decoy-examples-05.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/decoy-dmc-examples-02.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/decoy-dmc-examples-03.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.deanmcreative.com/wallpapers.html</loc>
-    <lastmod>2018-01-12</lastmod>
+    <lastmod>2018-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -94,8 +73,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.deanmcreative.com/videos.html</loc>
-    <lastmod>2018-01-12</lastmod>
+    <loc>http://www.deanmcreative.com/fonts.html</loc>
+    <lastmod>2018-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -103,11 +82,20 @@
     </image:image>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/rtp-c4dlogotrans-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/decoy-examples-05.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/decoy-dmc-examples-02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/decoy-dmc-examples-03.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.deanmcreative.com/albumart.html</loc>
-    <lastmod>2018-01-12</lastmod>
+    <lastmod>2018-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -115,6 +103,9 @@
     </image:image>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/rtp-c4dlogotrans-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/noartificialsweeteners-sm.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/breakneck%20city%20-%20album%20art.jpg</image:loc>
@@ -139,8 +130,20 @@
     </image:image>
   </url>
   <url>
+    <loc>http://www.deanmcreative.com/videos.html</loc>
+    <lastmod>2018-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/simple-logo-black-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/rtp-c4dlogotrans-01.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://www.deanmcreative.com/graphicdesign.html</loc>
-    <lastmod>2018-01-12</lastmod>
+    <lastmod>2018-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -182,11 +185,5 @@
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/2017-social-breakneck-crop-u9506.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://www.deanmcreative.com/assets/dmc_sig-01.png</loc>
-    <lastmod>2017-02-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
