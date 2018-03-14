@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="false" exportTarget="other" domain="www.deanmcreative.com" resolutions="1x" timestamp="1521021158607">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="false" exportTarget="other" domain="www.deanmcreative.com" resolutions="1x" timestamp="1521021853749">
   <folder name="css">
-    <file name="site_global.css" crc="534215756"/>
+    <file name="site_global.css" crc="3994085893"/>
     <file name="master_a-master.css" crc="4039776393" ref="wallpapers:fonts:graphicdesign:index:videos:albumart"/>
     <file name="wallpapers.css" crc="4267873564" ref="wallpapers"/>
     <file name="fonts.css" crc="430350812" ref="fonts"/>
