@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="false" exportTarget="other" domain="www.deanmcreative.com" resolutions="1x" timestamp="1521097175335">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="false" exportTarget="other" domain="www.deanmcreative.com" resolutions="1x" timestamp="1521097444134">
   <folder name="css">
     <file name="site_global.css" crc="536696751"/>
-    <file name="master_a-master.css" crc="32735473" ref="graphicdesign:fonts:videos:wallpapers:albumart:index"/>
-    <file name="graphicdesign.css" crc="498822926" ref="graphicdesign"/>
-    <file name="fonts.css" crc="410586791" ref="fonts"/>
-    <file name="videos.css" crc="4037448665" ref="videos"/>
-    <file name="wallpapers.css" crc="3890733398" ref="wallpapers"/>
-    <file name="albumart.css" crc="4200001520" ref="albumart"/>
-    <file name="index.css" crc="4131119712" ref="index"/>
+    <file name="master_a-master.css" crc="333638467" ref="graphicdesign:fonts:videos:wallpapers:albumart:index"/>
+    <file name="graphicdesign.css" crc="4137575520" ref="graphicdesign"/>
+    <file name="fonts.css" crc="4030105372" ref="fonts"/>
+    <file name="videos.css" crc="3967933263" ref="videos"/>
+    <file name="wallpapers.css" crc="450979156" ref="wallpapers"/>
+    <file name="albumart.css" crc="4255948592" ref="albumart"/>
+    <file name="index.css" crc="318957351" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="opensans-lightitalic-webfont.woff" crc="3822721957"/>
@@ -99,11 +99,11 @@
     <file name="u11039-5.png" crc="1167345" ref="index:wallpapers:fonts:albumart:videos:graphicdesign"/>
     <file name="rtp-c4dlogotrans-01.png" crc="366424660" seo="true" ref="index:wallpapers:fonts:albumart:videos:graphicdesign">
       <caption webpage="index" alt=""/>
-      <caption webpage="fonts" alt=""/>
       <caption webpage="albumart" alt=""/>
       <caption webpage="graphicdesign" alt=""/>
-      <caption webpage="wallpapers" alt=""/>
+      <caption webpage="fonts" alt=""/>
       <caption webpage="videos" alt=""/>
+      <caption webpage="wallpapers" alt=""/>
     </file>
     <file name="parrot_3.jpg" crc="4107150174" seo="true" ref="wallpapers">
       <caption webpage="wallpapers" alt=""/>
@@ -202,10 +202,10 @@
       <caption webpage="graphicdesign" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="53337771" seo="true" mt="1521097166114" redirect="true"/>
-  <file name="wallpapers.html" crc="123770980" seo="true" mt="1521097166114" redirect="true"/>
-  <file name="fonts.html" crc="3847459547" seo="true" mt="1521097166114" redirect="true"/>
-  <file name="albumart.html" crc="4257040383" seo="true" mt="1521097166114" redirect="true"/>
-  <file name="videos.html" crc="4088421154" seo="true" mt="1521097166114" redirect="true"/>
-  <file name="graphicdesign.html" crc="4119492054" seo="true" mt="1521097166114" redirect="true"/>
+  <file name="index.html" crc="427872169" seo="true" mt="1521097434164" redirect="true"/>
+  <file name="wallpapers.html" crc="3846392867" seo="true" mt="1521097434164" redirect="true"/>
+  <file name="fonts.html" crc="469572119" seo="true" mt="1521097434164" redirect="true"/>
+  <file name="albumart.html" crc="3870872164" seo="true" mt="1521097434164" redirect="true"/>
+  <file name="videos.html" crc="3781509993" seo="true" mt="1521097434164" redirect="true"/>
+  <file name="graphicdesign.html" crc="3955768292" seo="true" mt="1521097434164" redirect="true"/>
 </manifest>
