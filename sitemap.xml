@@ -8,9 +8,6 @@
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/rtp-c4dlogotrans-01.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/simple-logo-black-01.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://www.deanmcreative.com/wallpapers.html</loc>
@@ -19,9 +16,6 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/rtp-c4dlogotrans-01.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/simple-logo-black-01.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/parrot_3.jpg</image:loc>
@@ -80,9 +74,6 @@
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/rtp-c4dlogotrans-01.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/simple-logo-black-01.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://www.deanmcreative.com/albumart.html</loc>
@@ -91,9 +82,6 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/rtp-c4dlogotrans-01.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/simple-logo-black-01.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/noartificialsweeteners-sm.jpg</image:loc>
@@ -122,9 +110,6 @@
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/rtp-c4dlogotrans-01.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/simple-logo-black-01.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://www.deanmcreative.com/graphicdesign.html</loc>
@@ -133,9 +118,6 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/rtp-c4dlogotrans-01.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/simple-logo-black-01.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/is16.jpg</image:loc>
