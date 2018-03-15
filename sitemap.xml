@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.deanmcreative.com/index.html</loc>
-    <lastmod>2018-03-14</lastmod>
+    <lastmod>2018-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -22,6 +22,15 @@
     </image:image>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/simple-logo-black-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/parrot_3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/parrot_1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/parrot_2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/corrupted%20nanomachine.jpg</image:loc>
@@ -45,15 +54,6 @@
       <image:loc>http://www.deanmcreative.com/images/perfect%20replacement.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/end%20of%20the%20tunnel.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/global%20conspiracy.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/relic.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.deanmcreative.com/images/the%20reflex.jpg</image:loc>
     </image:image>
     <image:image>
@@ -71,19 +71,10 @@
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/4909-city.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/parrot_3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/parrot_1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/parrot_2.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://www.deanmcreative.com/fonts.html</loc>
-    <lastmod>2018-03-14</lastmod>
+    <lastmod>2018-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -92,19 +83,10 @@
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/simple-logo-black-01.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/decoy-examples-05.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/decoy-dmc-examples-02.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/decoy-dmc-examples-03.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://www.deanmcreative.com/albumart.html</loc>
-    <lastmod>2018-03-14</lastmod>
+    <lastmod>2018-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -126,21 +108,15 @@
       <image:loc>http://www.deanmcreative.com/images/defendr-scrapyard.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/sharpsteel-01.jpg</image:loc>
+      <image:loc>http://www.deanmcreative.com/images/defendr-deleted.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/wom-01.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/artwork.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/defendr-deleted.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://www.deanmcreative.com/videos.html</loc>
-    <lastmod>2018-03-14</lastmod>
+    <lastmod>2018-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -152,7 +128,7 @@
   </url>
   <url>
     <loc>http://www.deanmcreative.com/graphicdesign.html</loc>
-    <lastmod>2018-03-14</lastmod>
+    <lastmod>2018-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
