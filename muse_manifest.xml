@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="false" exportTarget="other" domain="www.deanmcreative.com" resolutions="1x" timestamp="1521021853749">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="false" exportTarget="other" domain="www.deanmcreative.com" resolutions="1x" timestamp="1521091703113">
   <folder name="css">
-    <file name="site_global.css" crc="3994085893"/>
-    <file name="master_a-master.css" crc="4039776393" ref="wallpapers:fonts:graphicdesign:index:videos:albumart"/>
-    <file name="wallpapers.css" crc="4267873564" ref="wallpapers"/>
+    <file name="site_global.css" crc="3844303120"/>
+    <file name="master_a-master.css" crc="4045069843" ref="wallpapers:fonts:graphicdesign:index:videos:albumart"/>
+    <file name="wallpapers.css" crc="256852386" ref="wallpapers"/>
     <file name="fonts.css" crc="430350812" ref="fonts"/>
     <file name="graphicdesign.css" crc="463337141" ref="graphicdesign"/>
     <file name="index.css" crc="4087594806" ref="index"/>
@@ -74,23 +74,23 @@
     <file name="require.js" crc="4157109226" ref="index:wallpapers:fonts:albumart:videos:graphicdesign"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="143124211" ref="index"/>
+    <file name="a-master-favicon.ico" crc="143124211" ref="index:wallpapers"/>
     <file name="u11039-5.png" crc="1167345" ref="index:wallpapers:fonts:albumart:videos:graphicdesign"/>
     <file name="rtp-c4dlogotrans-01.png" crc="366424660" seo="true" ref="index:wallpapers:fonts:albumart:videos:graphicdesign">
       <caption webpage="index" alt=""/>
-      <caption webpage="videos" alt=""/>
-      <caption webpage="graphicdesign" alt=""/>
       <caption webpage="albumart" alt=""/>
-      <caption webpage="fonts" alt=""/>
       <caption webpage="wallpapers" alt=""/>
+      <caption webpage="graphicdesign" alt=""/>
+      <caption webpage="fonts" alt=""/>
+      <caption webpage="videos" alt=""/>
     </file>
     <file name="simple-logo-black-01.png" crc="503951102" seo="true" ref="index:wallpapers:fonts:albumart:videos:graphicdesign">
       <caption webpage="index" alt=""/>
-      <caption webpage="videos" alt=""/>
-      <caption webpage="graphicdesign" alt=""/>
       <caption webpage="albumart" alt=""/>
-      <caption webpage="fonts" alt=""/>
       <caption webpage="wallpapers" alt=""/>
+      <caption webpage="graphicdesign" alt=""/>
+      <caption webpage="fonts" alt=""/>
+      <caption webpage="videos" alt=""/>
     </file>
     <file name="corrupted nanomachine.jpg" crc="3914124231" seo="true" ref="wallpapers">
       <caption webpage="wallpapers" alt=""/>
@@ -203,9 +203,18 @@
     <file name="2017-social-breakneck-crop-u9506.jpg" crc="296588002" seo="true" ref="graphicdesign">
       <caption webpage="graphicdesign" alt=""/>
     </file>
+    <file name="parrot_3.jpg" crc="4107150174" seo="true" ref="wallpapers">
+      <caption webpage="wallpapers" alt=""/>
+    </file>
+    <file name="parrot_1.jpg" crc="4021026772" seo="true" ref="wallpapers">
+      <caption webpage="wallpapers" alt=""/>
+    </file>
+    <file name="parrot_2.jpg" crc="308185997" seo="true" ref="wallpapers">
+      <caption webpage="wallpapers" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="327382943" seo="true" mt="1521021062592" redirect="true"/>
-  <file name="wallpapers.html" crc="3780461964" seo="true" mt="1521021062592" redirect="true"/>
+  <file name="wallpapers.html" crc="3907548240" seo="true" mt="1521091682605" redirect="true"/>
   <file name="fonts.html" crc="3853842841" seo="true" mt="1521021062592" redirect="true"/>
   <file name="albumart.html" crc="124079009" seo="true" mt="1521021062592" redirect="true"/>
   <file name="videos.html" crc="4063863253" seo="true" mt="1521021062592" redirect="true"/>

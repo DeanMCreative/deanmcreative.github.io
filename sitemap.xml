@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>http://www.deanmcreative.com/wallpapers.html</loc>
-    <lastmod>2018-03-14</lastmod>
+    <lastmod>2018-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -70,6 +70,15 @@
     </image:image>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/4909-city.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/parrot_3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/parrot_1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/parrot_2.jpg</image:loc>
     </image:image>
   </url>
   <url>
