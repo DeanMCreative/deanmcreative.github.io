@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.deanmcreative.com" resolutions="1x" timestamp="1587691549324">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.deanmcreative.com" resolutions="1x" timestamp="1587692738440">
   <folder name="css">
     <file name="site_global.css" crc="536696751"/>
-    <file name="master_a-master.css" crc="458834918" ref="albumart:index:fonts:graphicdesign:videos:wallpapers"/>
-    <file name="albumart.css" crc="3939796470" ref="albumart"/>
-    <file name="index.css" crc="4044244484" ref="index"/>
-    <file name="fonts.css" crc="213727396" ref="fonts"/>
-    <file name="graphicdesign.css" crc="3824367274" ref="graphicdesign"/>
-    <file name="videos.css" crc="4083342203" ref="videos"/>
-    <file name="wallpapers.css" crc="3823592473" ref="wallpapers"/>
+    <file name="master_a-master.css" crc="222560863" ref="albumart:index:fonts:graphicdesign:videos:wallpapers"/>
+    <file name="albumart.css" crc="26742954" ref="albumart"/>
+    <file name="index.css" crc="363914355" ref="index"/>
+    <file name="fonts.css" crc="339918390" ref="fonts"/>
+    <file name="graphicdesign.css" crc="3777103480" ref="graphicdesign"/>
+    <file name="videos.css" crc="3878672730" ref="videos"/>
+    <file name="wallpapers.css" crc="142484438" ref="wallpapers"/>
   </folder>
   <folder name="fonts">
     <file name="opensans-bolditalic-webfont.woff" crc="8274206"/>
@@ -199,10 +199,10 @@
       <caption webpage="graphicdesign" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4177478721" seo="true" mt="1587688527787" redirect="true"/>
-  <file name="wallpapers.html" crc="327381486" seo="true" mt="1587690661041" redirect="true"/>
-  <file name="fonts.html" crc="4227283180" seo="true" mt="1587691191553" redirect="true"/>
-  <file name="albumart.html" crc="4008802555" seo="true" mt="1587688531393" redirect="true"/>
-  <file name="videos.html" crc="3821894223" seo="true" mt="1587690676541" redirect="true"/>
-  <file name="graphicdesign.html" crc="3823987155" seo="true" mt="1587688551049" redirect="true"/>
+  <file name="index.html" crc="66718950" seo="true" mt="1587692551900" redirect="true"/>
+  <file name="wallpapers.html" crc="3874940761" seo="true" mt="1587691957779" redirect="true"/>
+  <file name="fonts.html" crc="4088423331" seo="true" mt="1587691957779" redirect="true"/>
+  <file name="albumart.html" crc="3762537946" seo="true" mt="1587691957779" redirect="true"/>
+  <file name="videos.html" crc="4170916371" seo="true" mt="1587691957779" redirect="true"/>
+  <file name="graphicdesign.html" crc="316022360" seo="true" mt="1587691957779" redirect="true"/>
 </manifest>
