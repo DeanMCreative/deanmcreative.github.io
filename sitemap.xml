@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.deanmcreative.com/index.html</loc>
-    <lastmod>2018-03-15</lastmod>
+    <lastmod>2020-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/rtp-c4dlogotrans-01.png</image:loc>
+      <image:loc>http://www.deanmcreative.com/images/polarisradio-logo.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.deanmcreative.com/wallpapers.html</loc>
-    <lastmod>2018-03-15</lastmod>
+    <lastmod>2020-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/rtp-c4dlogotrans-01.png</image:loc>
+      <image:loc>http://www.deanmcreative.com/images/polarisradio-logo.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/parrot_3.jpg</image:loc>
@@ -36,9 +36,6 @@
       <image:loc>http://www.deanmcreative.com/images/the%20vault.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/final%20hours%20of%20breakneck%20city.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.deanmcreative.com/images/chroma%20chompa.jpg</image:loc>
     </image:image>
     <image:image>
@@ -56,68 +53,53 @@
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/untouched.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/atom-land-2017.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/rtp-infinity-2017.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/4909-city.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://www.deanmcreative.com/fonts.html</loc>
-    <lastmod>2018-03-15</lastmod>
+    <lastmod>2020-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/rtp-c4dlogotrans-01.png</image:loc>
+      <image:loc>http://www.deanmcreative.com/images/polarisradio-logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/pparadise-crop-u11537.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.deanmcreative.com/albumart.html</loc>
-    <lastmod>2018-03-15</lastmod>
+    <lastmod>2020-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/rtp-c4dlogotrans-01.png</image:loc>
+      <image:loc>http://www.deanmcreative.com/images/polarisradio-logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/noartificialsweeteners-sm.jpg</image:loc>
+      <image:loc>http://www.deanmcreative.com/images/pasted%20image%20700x700.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/breakneck%20city%20-%20album%20art.jpg</image:loc>
+      <image:loc>http://www.deanmcreative.com/images/pasted%20image%201200x1200.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/4909-artwork.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/defendr-scrapyard.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/defendr-deleted.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/wom-01.jpg</image:loc>
+      <image:loc>http://www.deanmcreative.com/images/pasted%20image%201200x12002.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.deanmcreative.com/videos.html</loc>
-    <lastmod>2018-03-15</lastmod>
+    <lastmod>2020-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/rtp-c4dlogotrans-01.png</image:loc>
+      <image:loc>http://www.deanmcreative.com/images/polarisradio-logo.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.deanmcreative.com/graphicdesign.html</loc>
-    <lastmod>2018-03-15</lastmod>
+    <lastmod>2020-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/rtp-c4dlogotrans-01.png</image:loc>
+      <image:loc>http://www.deanmcreative.com/images/polarisradio-logo.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/is16.jpg</image:loc>
