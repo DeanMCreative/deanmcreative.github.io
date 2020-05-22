@@ -2,36 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.deanmcreative.com/index.html</loc>
-<<<<<<< HEAD
     <lastmod>2020-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/dmc-logo-2020-01.png</image:loc>
-=======
-    <lastmod>2020-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/polarisradio-logo.png</image:loc>
->>>>>>> 6fd7c43fb6d1835e44f9a3c008501a8d45c5904c
     </image:image>
   </url>
   <url>
     <loc>http://www.deanmcreative.com/wallpapers.html</loc>
-<<<<<<< HEAD
     <lastmod>2020-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/dmc-logo-2020-01.png</image:loc>
-=======
-    <lastmod>2020-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/polarisradio-logo.png</image:loc>
->>>>>>> 6fd7c43fb6d1835e44f9a3c008501a8d45c5904c
     </image:image>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/parrot_3.jpg</image:loc>
@@ -72,39 +56,20 @@
   </url>
   <url>
     <loc>http://www.deanmcreative.com/fonts.html</loc>
-<<<<<<< HEAD
     <lastmod>2020-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/dmc-logo-2020-01.png</image:loc>
-=======
-    <lastmod>2020-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/polarisradio-logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/pparadise-crop-u11537.jpg</image:loc>
->>>>>>> 6fd7c43fb6d1835e44f9a3c008501a8d45c5904c
     </image:image>
   </url>
   <url>
     <loc>http://www.deanmcreative.com/albumart.html</loc>
-<<<<<<< HEAD
     <lastmod>2020-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/dmc-logo-2020-01.png</image:loc>
-=======
-    <lastmod>2020-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/polarisradio-logo.png</image:loc>
->>>>>>> 6fd7c43fb6d1835e44f9a3c008501a8d45c5904c
     </image:image>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/pasted%20image%20700x700.jpg</image:loc>
@@ -118,36 +83,20 @@
   </url>
   <url>
     <loc>http://www.deanmcreative.com/videos.html</loc>
-<<<<<<< HEAD
     <lastmod>2020-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/dmc-logo-2020-01.png</image:loc>
-=======
-    <lastmod>2020-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/polarisradio-logo.png</image:loc>
->>>>>>> 6fd7c43fb6d1835e44f9a3c008501a8d45c5904c
     </image:image>
   </url>
   <url>
     <loc>http://www.deanmcreative.com/graphicdesign.html</loc>
-<<<<<<< HEAD
     <lastmod>2020-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/dmc-logo-2020-01.png</image:loc>
-=======
-    <lastmod>2020-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/polarisradio-logo.png</image:loc>
->>>>>>> 6fd7c43fb6d1835e44f9a3c008501a8d45c5904c
     </image:image>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/is16.jpg</image:loc>
