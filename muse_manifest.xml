@@ -1,33 +1,21 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="false" exportTarget="other" domain="www.deanmcreative.com" resolutions="1x" timestamp="1521097444134">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="www.deanmcreative.com" resolutions="1x" timestamp="1590154315517">
   <folder name="css">
-    <file name="site_global.css" crc="536696751"/>
-    <file name="master_a-master.css" crc="333638467" ref="graphicdesign:fonts:videos:wallpapers:albumart:index"/>
-    <file name="graphicdesign.css" crc="4137575520" ref="graphicdesign"/>
-    <file name="fonts.css" crc="4030105372" ref="fonts"/>
-    <file name="videos.css" crc="3967933263" ref="videos"/>
-    <file name="wallpapers.css" crc="450979156" ref="wallpapers"/>
-    <file name="albumart.css" crc="4255948592" ref="albumart"/>
-    <file name="index.css" crc="318957351" ref="index"/>
+    <file name="site_global.css" crc="3879776857"/>
+    <file name="master_a-master.css" crc="3805800582" ref="fonts:graphicdesign:albumart:index:wallpapers:videos"/>
+    <file name="fonts.css" crc="257440934" ref="fonts"/>
+    <file name="graphicdesign.css" crc="3831190848" ref="graphicdesign"/>
+    <file name="albumart.css" crc="3789723343" ref="albumart"/>
+    <file name="index.css" crc="3931919052" ref="index"/>
+    <file name="wallpapers.css" crc="299866278" ref="wallpapers"/>
+    <file name="videos.css" crc="4115837710" ref="videos"/>
   </folder>
   <folder name="fonts">
-    <file name="opensans-lightitalic-webfont.woff" crc="3822721957"/>
-    <file name="opensans-lightitalic-webfont.eot" crc="4181101817"/>
-    <file name="opensans-lightitalic-webfont.svg" crc="122284811"/>
-    <file name="opensans-bolditalic-webfont.woff" crc="8274206"/>
-    <file name="opensans-bolditalic-webfont.eot" crc="361405528"/>
-    <file name="opensans-bolditalic-webfont.svg" crc="4196070372"/>
     <file name="opensans-regular-webfont.woff" crc="324583082"/>
     <file name="opensans-regular-webfont.eot" crc="3781049599"/>
     <file name="opensans-regular-webfont.svg" crc="317492599"/>
     <file name="opensans-bold-webfont.woff" crc="3938578428"/>
     <file name="opensans-bold-webfont.eot" crc="3881073274"/>
     <file name="opensans-bold-webfont.svg" crc="23945526"/>
-    <file name="opensans-lightitalic-webfont.woff" crc="3822721957"/>
-    <file name="opensans-lightitalic-webfont.eot" crc="4181101817"/>
-    <file name="opensans-lightitalic-webfont.svg" crc="122284811"/>
-    <file name="opensans-bolditalic-webfont.woff" crc="8274206"/>
-    <file name="opensans-bolditalic-webfont.eot" crc="361405528"/>
-    <file name="opensans-bolditalic-webfont.svg" crc="4196070372"/>
     <file name="opensans-regular-webfont.woff" crc="324583082"/>
     <file name="opensans-regular-webfont.eot" crc="3781049599"/>
     <file name="opensans-regular-webfont.svg" crc="317492599"/>
@@ -37,9 +25,12 @@
     <file name="decoy-webfont.woff" crc="4223305591"/>
     <file name="decoy-webfont.eot" crc="4063105686"/>
     <file name="decoy-webfont.svg" crc="312874873"/>
-    <file name="opensans-lightitalic-webfont.woff" crc="3822721957"/>
-    <file name="opensans-lightitalic-webfont.eot" crc="4181101817"/>
-    <file name="opensans-lightitalic-webfont.svg" crc="122284811"/>
+    <file name="opensans-regular-webfont.woff" crc="324583082"/>
+    <file name="opensans-regular-webfont.eot" crc="3781049599"/>
+    <file name="opensans-regular-webfont.svg" crc="317492599"/>
+    <file name="opensans-bold-webfont.woff" crc="3938578428"/>
+    <file name="opensans-bold-webfont.eot" crc="3881073274"/>
+    <file name="opensans-bold-webfont.svg" crc="23945526"/>
     <file name="opensans-bolditalic-webfont.woff" crc="8274206"/>
     <file name="opensans-bolditalic-webfont.eot" crc="361405528"/>
     <file name="opensans-bolditalic-webfont.svg" crc="4196070372"/>
@@ -49,36 +40,12 @@
     <file name="opensans-bold-webfont.woff" crc="3938578428"/>
     <file name="opensans-bold-webfont.eot" crc="3881073274"/>
     <file name="opensans-bold-webfont.svg" crc="23945526"/>
-    <file name="opensans-lightitalic-webfont.woff" crc="3822721957"/>
-    <file name="opensans-lightitalic-webfont.eot" crc="4181101817"/>
-    <file name="opensans-lightitalic-webfont.svg" crc="122284811"/>
-    <file name="opensans-bolditalic-webfont.woff" crc="8274206"/>
-    <file name="opensans-bolditalic-webfont.eot" crc="361405528"/>
-    <file name="opensans-bolditalic-webfont.svg" crc="4196070372"/>
     <file name="opensans-regular-webfont.woff" crc="324583082"/>
     <file name="opensans-regular-webfont.eot" crc="3781049599"/>
     <file name="opensans-regular-webfont.svg" crc="317492599"/>
     <file name="opensans-bold-webfont.woff" crc="3938578428"/>
     <file name="opensans-bold-webfont.eot" crc="3881073274"/>
     <file name="opensans-bold-webfont.svg" crc="23945526"/>
-    <file name="opensans-lightitalic-webfont.woff" crc="3822721957"/>
-    <file name="opensans-lightitalic-webfont.eot" crc="4181101817"/>
-    <file name="opensans-lightitalic-webfont.svg" crc="122284811"/>
-    <file name="opensans-bolditalic-webfont.woff" crc="8274206"/>
-    <file name="opensans-bolditalic-webfont.eot" crc="361405528"/>
-    <file name="opensans-bolditalic-webfont.svg" crc="4196070372"/>
-    <file name="opensans-regular-webfont.woff" crc="324583082"/>
-    <file name="opensans-regular-webfont.eot" crc="3781049599"/>
-    <file name="opensans-regular-webfont.svg" crc="317492599"/>
-    <file name="opensans-bold-webfont.woff" crc="3938578428"/>
-    <file name="opensans-bold-webfont.eot" crc="3881073274"/>
-    <file name="opensans-bold-webfont.svg" crc="23945526"/>
-    <file name="opensans-lightitalic-webfont.woff" crc="3822721957"/>
-    <file name="opensans-lightitalic-webfont.eot" crc="4181101817"/>
-    <file name="opensans-lightitalic-webfont.svg" crc="122284811"/>
-    <file name="opensans-bolditalic-webfont.woff" crc="8274206"/>
-    <file name="opensans-bolditalic-webfont.eot" crc="361405528"/>
-    <file name="opensans-bolditalic-webfont.svg" crc="4196070372"/>
     <file name="opensans-regular-webfont.woff" crc="324583082"/>
     <file name="opensans-regular-webfont.eot" crc="3781049599"/>
     <file name="opensans-regular-webfont.svg" crc="317492599"/>
@@ -88,22 +55,21 @@
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:wallpapers:fonts:albumart:videos:graphicdesign"/>
-    <file name="museutils.js" crc="3803043152" ref="index:wallpapers:fonts:albumart:videos:graphicdesign"/>
+    <file name="museutils.js" crc="3939489907" ref="index:wallpapers:fonts:albumart:videos:graphicdesign"/>
     <file name="whatinput.js" crc="86476730" ref="index:wallpapers:fonts:albumart:videos:graphicdesign"/>
-    <file name="museconfig.js" crc="380897831" ref="index:wallpapers:fonts:albumart:videos:graphicdesign"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:wallpapers:fonts:albumart:videos:graphicdesign"/>
-    <file name="require.js" crc="4157109226" ref="index:wallpapers:fonts:albumart:videos:graphicdesign"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:wallpapers:fonts:albumart:videos:graphicdesign"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:wallpapers:fonts:albumart:videos:graphicdesign"/>
+    <file name="require.js" crc="4177726516" ref="index:wallpapers:fonts:albumart:videos:graphicdesign"/>
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="143124211" ref="index"/>
-    <file name="u11039-5.png" crc="1167345" ref="index:wallpapers:fonts:albumart:videos:graphicdesign"/>
-    <file name="rtp-c4dlogotrans-01.png" crc="366424660" seo="true" ref="index:wallpapers:fonts:albumart:videos:graphicdesign">
+    <file name="dmc-logo-2020-01.png" crc="229643256" seo="true" ref="index:wallpapers:fonts:albumart:videos:graphicdesign">
       <caption webpage="index" alt=""/>
-      <caption webpage="albumart" alt=""/>
-      <caption webpage="graphicdesign" alt=""/>
-      <caption webpage="fonts" alt=""/>
-      <caption webpage="videos" alt=""/>
       <caption webpage="wallpapers" alt=""/>
+      <caption webpage="fonts" alt=""/>
+      <caption webpage="graphicdesign" alt=""/>
+      <caption webpage="albumart" alt=""/>
+      <caption webpage="videos" alt=""/>
     </file>
     <file name="parrot_3.jpg" crc="4107150174" seo="true" ref="wallpapers">
       <caption webpage="wallpapers" alt=""/>
@@ -121,9 +87,6 @@
       <caption webpage="wallpapers" alt=""/>
     </file>
     <file name="the vault.jpg" crc="35684599" seo="true" ref="wallpapers">
-      <caption webpage="wallpapers" alt=""/>
-    </file>
-    <file name="final hours of breakneck city.jpg" crc="364394874" seo="true" ref="wallpapers">
       <caption webpage="wallpapers" alt=""/>
     </file>
     <file name="chroma chompa.jpg" crc="136999822" seo="true" ref="wallpapers">
@@ -144,31 +107,16 @@
     <file name="untouched.jpg" crc="3819558068" seo="true" ref="wallpapers">
       <caption webpage="wallpapers" alt=""/>
     </file>
-    <file name="atom-land-2017.jpg" crc="262128482" seo="true" ref="wallpapers">
-      <caption webpage="wallpapers" alt=""/>
-    </file>
-    <file name="rtp-infinity-2017.jpg" crc="3782846777" seo="true" ref="wallpapers">
-      <caption webpage="wallpapers" alt=""/>
-    </file>
-    <file name="4909-city.jpg" crc="257595120" seo="true" ref="wallpapers">
-      <caption webpage="wallpapers" alt=""/>
-    </file>
-    <file name="noartificialsweeteners-sm.jpg" crc="4083192122" seo="true" ref="albumart">
+    <file name="u11623-4.png" crc="272542989" ref="fonts"/>
+    <file name="u11645-11.png" crc="3891223613" ref="fonts"/>
+    <file name="u11648-10.png" crc="4141460648" ref="fonts"/>
+    <file name="pasted image 700x700.jpg" crc="3783839247" seo="true" ref="albumart">
       <caption webpage="albumart" alt=""/>
     </file>
-    <file name="breakneck city - album art.jpg" crc="500199301" seo="true" ref="albumart">
+    <file name="pasted image 1200x1200.jpg" crc="4249153662" seo="true" ref="albumart">
       <caption webpage="albumart" alt=""/>
     </file>
-    <file name="4909-artwork.jpg" crc="218789620" seo="true" ref="albumart">
-      <caption webpage="albumart" alt=""/>
-    </file>
-    <file name="defendr-scrapyard.jpg" crc="193462143" seo="true" ref="albumart">
-      <caption webpage="albumart" alt=""/>
-    </file>
-    <file name="defendr-deleted.jpg" crc="363449887" seo="true" ref="albumart">
-      <caption webpage="albumart" alt=""/>
-    </file>
-    <file name="wom-01.jpg" crc="481444340" seo="true" ref="albumart">
+    <file name="pasted image 1200x12002.jpg" crc="146509307" seo="true" ref="albumart">
       <caption webpage="albumart" alt=""/>
     </file>
     <file name="is16.jpg" crc="3993622417" seo="true" ref="graphicdesign">
@@ -202,10 +150,10 @@
       <caption webpage="graphicdesign" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="427872169" seo="true" mt="1521097434164" redirect="true"/>
-  <file name="wallpapers.html" crc="3846392867" seo="true" mt="1521097434164" redirect="true"/>
-  <file name="fonts.html" crc="469572119" seo="true" mt="1521097434164" redirect="true"/>
-  <file name="albumart.html" crc="3870872164" seo="true" mt="1521097434164" redirect="true"/>
-  <file name="videos.html" crc="3781509993" seo="true" mt="1521097434164" redirect="true"/>
-  <file name="graphicdesign.html" crc="3955768292" seo="true" mt="1521097434164" redirect="true"/>
+  <file name="index.html" crc="64947188" seo="true" mt="1590154098887" redirect="true"/>
+  <file name="wallpapers.html" crc="380571108" seo="true" mt="1590154098887" redirect="true"/>
+  <file name="fonts.html" crc="3922493878" seo="true" mt="1590154098887" redirect="true"/>
+  <file name="albumart.html" crc="4044214639" seo="true" mt="1590154098887" redirect="true"/>
+  <file name="videos.html" crc="491908124" seo="true" mt="1590154173446" redirect="true"/>
+  <file name="graphicdesign.html" crc="63736812" seo="true" mt="1590154164200" redirect="true"/>
 </manifest>
