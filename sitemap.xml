@@ -8,50 +8,119 @@
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/dmc-logo-2020-01.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://www.deanmcreative.com/wallpapers.html</loc>
-    <lastmod>2020-05-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/dmc-logo-2020-01.png</image:loc>
+      <image:loc>http://www.deanmcreative.com/images/000.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/parrot_3.jpg</image:loc>
+      <image:loc>http://www.deanmcreative.com/images/00.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/parrot_1.jpg</image:loc>
+      <image:loc>http://www.deanmcreative.com/images/1.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/parrot_2.jpg</image:loc>
+      <image:loc>http://www.deanmcreative.com/images/2.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/corrupted%20nanomachine.jpg</image:loc>
+      <image:loc>http://www.deanmcreative.com/images/3.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/reversing%20entropy.jpg</image:loc>
+      <image:loc>http://www.deanmcreative.com/images/4.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/the%20vault.jpg</image:loc>
+      <image:loc>http://www.deanmcreative.com/images/5.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/chroma%20chompa.jpg</image:loc>
+      <image:loc>http://www.deanmcreative.com/images/6.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/mineralism.jpg</image:loc>
+      <image:loc>http://www.deanmcreative.com/images/7.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/perfect%20replacement.jpg</image:loc>
+      <image:loc>http://www.deanmcreative.com/images/8.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/the%20reflex.jpg</image:loc>
+      <image:loc>http://www.deanmcreative.com/images/9.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/jellytip.jpg</image:loc>
+      <image:loc>http://www.deanmcreative.com/images/11.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/untouched.jpg</image:loc>
+      <image:loc>http://www.deanmcreative.com/images/22.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/33.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/44.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/55.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/66.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/77.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/88.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/99.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/111.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/222.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/333.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/444.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/555.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/666.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/777.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/888.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/999.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/1111.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/2222.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/3333.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/4444.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/5555.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/6666.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/7777.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/8888.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/9999.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -61,24 +130,6 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/dmc-logo-2020-01.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://www.deanmcreative.com/albumart.html</loc>
-    <lastmod>2020-05-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/dmc-logo-2020-01.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/pasted%20image%20700x700.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/pasted%20image%201200x1200.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/pasted%20image%201200x12002.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -123,10 +174,172 @@
       <image:loc>http://www.deanmcreative.com/images/defendr-logo-crop-u9555.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/is3.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.deanmcreative.com/images/2017-social-breakneck-crop-u9506.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://www.deanmcreative.com/index-dark.html</loc>
+    <lastmod>2020-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/000.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/00.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/1.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/2.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/3.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/4.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/5.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/6.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/7.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/8.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/9.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/11.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/22.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/33.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/44.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/55.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/66.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/77.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/88.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/99.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/111.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/222.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/333.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/444.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/555.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/666.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/777.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/888.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/999.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/1111.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/2222.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/3333.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/4444.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/5555.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/6666.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/7777.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/8888.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/9999.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.deanmcreative.com/design-dark.html</loc>
+    <lastmod>2020-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/is16.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/isat.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/poster-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/posters-day.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/shortcourses.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/yn.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/4909-cd.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/defendr-logo-crop-u29182.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/2017-social-breakneck-crop-u29180.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.deanmcreative.com/experiences-dark.html</loc>
+    <lastmod>2020-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.deanmcreative.com/typography-dark.html</loc>
+    <lastmod>2020-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
