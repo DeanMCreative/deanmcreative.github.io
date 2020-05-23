@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="www.deanmcreative.com" resolutions="1x" timestamp="1590232775036">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="www.deanmcreative.com" resolutions="1x" timestamp="1590233021630">
   <folder name="css">
-    <file name="site_global.css" crc="3879776857"/>
-    <file name="master_a-master.css" crc="3876813439" ref="index:graphicdesign:videos:fonts"/>
-    <file name="index.css" crc="4181513719" ref="index"/>
-    <file name="graphicdesign.css" crc="3924631518" ref="graphicdesign"/>
-    <file name="videos.css" crc="180429200" ref="videos"/>
-    <file name="fonts.css" crc="493136701" ref="fonts"/>
+    <file name="site_global.css" crc="4156709878"/>
+    <file name="master_a-master.css" crc="3771858704" ref="index:graphicdesign:videos:fonts"/>
+    <file name="index.css" crc="4187792964" ref="index"/>
+    <file name="graphicdesign.css" crc="4246585741" ref="graphicdesign"/>
+    <file name="videos.css" crc="3917455969" ref="videos"/>
+    <file name="fonts.css" crc="21355293" ref="fonts"/>
     <file name="master_lights-out.css" crc="3790770359" ref="index-dark:design-dark:typography-dark:experiences-dark"/>
     <file name="index-dark.css" crc="4286707755" ref="index-dark"/>
     <file name="design-dark.css" crc="509706478" ref="design-dark"/>
@@ -42,11 +42,11 @@
     <file name="a-master-favicon.ico" crc="143124211" ref="index"/>
     <file name="dmc-logo-2020-01.png" crc="229643256" seo="true" ref="index:fonts:videos:graphicdesign">
       <caption webpage="index" alt=""/>
-      <caption webpage="fonts" alt=""/>
       <caption webpage="videos" alt=""/>
-      <caption webpage="albumart" alt=""/>
-      <caption webpage="wallpapers" alt=""/>
       <caption webpage="graphicdesign" alt=""/>
+      <caption webpage="albumart" alt=""/>
+      <caption webpage="fonts" alt=""/>
+      <caption webpage="wallpapers" alt=""/>
     </file>
     <file name="u11623-4.png" crc="272542989" ref="fonts"/>
     <file name="u11648-10.png" crc="4141460648" ref="fonts"/>
@@ -859,10 +859,10 @@
     <file name="u29303-19.png" crc="22630032" ref="typography-dark"/>
     <file name="u29313-10.png" crc="4156971985" ref="typography-dark"/>
   </folder>
-  <file name="index.html" crc="415189786" seo="true" mt="1590232664332" redirect="true"/>
-  <file name="fonts.html" crc="419214446" seo="true" mt="1590232664332" redirect="true"/>
-  <file name="videos.html" crc="58802365" seo="true" mt="1590232664332" redirect="true"/>
-  <file name="graphicdesign.html" crc="393925270" seo="true" mt="1590232664332" redirect="true"/>
+  <file name="index.html" crc="121826063" seo="true" mt="1590232993411" redirect="true"/>
+  <file name="fonts.html" crc="178897187" seo="true" mt="1590232993411" redirect="true"/>
+  <file name="videos.html" crc="4108613529" seo="true" mt="1590232993411" redirect="true"/>
+  <file name="graphicdesign.html" crc="141728745" seo="true" mt="1590232993411" redirect="true"/>
   <file name="index-dark.html" crc="4249085129" seo="true" mt="1590232669120" redirect="true"/>
   <file name="design-dark.html" crc="17578590" seo="true" mt="1590232669120" redirect="true"/>
   <file name="experiences-dark.html" crc="511931724" seo="true" mt="1590232669120" redirect="true"/>
