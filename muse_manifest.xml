@@ -1,88 +1,97 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="www.deanmcreative.com" resolutions="1x" timestamp="1590233021630">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.deanmcreative.com" resolutions="1x" timestamp="1661160084084">
   <folder name="css">
-    <file name="site_global.css" crc="4156709878"/>
-    <file name="master_a-master.css" crc="3771858704" ref="index:graphicdesign:videos:fonts"/>
-    <file name="index.css" crc="4187792964" ref="index"/>
-    <file name="graphicdesign.css" crc="4246585741" ref="graphicdesign"/>
-    <file name="videos.css" crc="3917455969" ref="videos"/>
-    <file name="fonts.css" crc="21355293" ref="fonts"/>
-    <file name="master_lights-out.css" crc="3790770359" ref="index-dark:design-dark:typography-dark:experiences-dark"/>
-    <file name="index-dark.css" crc="4286707755" ref="index-dark"/>
-    <file name="design-dark.css" crc="509706478" ref="design-dark"/>
-    <file name="typography-dark.css" crc="3088570" ref="typography-dark"/>
-    <file name="experiences-dark.css" crc="3947704665" ref="experiences-dark"/>
+    <file name="site_global.css" crc="3879776857"/>
+    <file name="master_lights-out.css" crc="4265804868" ref="typography-dark:index-dark:music-dark:design-dark:experiences-dark"/>
+    <file name="master_a-master.css" crc="3761507080" ref="fonts:videos:music:graphicdesign:index"/>
+    <file name="typography-dark.css" crc="477542974" ref="typography-dark"/>
+    <file name="index-dark.css" crc="361798819" ref="index-dark"/>
+    <file name="fonts.css" crc="189516366" ref="fonts"/>
+    <file name="music-dark.css" crc="193995182" ref="music-dark"/>
+    <file name="design-dark.css" crc="291609460" ref="design-dark"/>
+    <file name="videos.css" crc="283966725" ref="videos"/>
+    <file name="music.css" crc="110281598" ref="music"/>
+    <file name="experiences-dark.css" crc="3768531555" ref="experiences-dark"/>
+    <file name="graphicdesign.css" crc="4075212829" ref="graphicdesign"/>
+    <file name="index.css" crc="459451196" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="opensans-bold-webfont.woff" crc="3938578428"/>
-    <file name="opensans-bold-webfont.eot" crc="3881073274"/>
-    <file name="opensans-bold-webfont.svg" crc="23945526"/>
-    <file name="opensans-regular-webfont.woff" crc="324583082"/>
-    <file name="opensans-regular-webfont.eot" crc="3781049599"/>
-    <file name="opensans-regular-webfont.svg" crc="317492599"/>
-    <file name="decoy-webfont.woff" crc="4223305591"/>
-    <file name="decoy-webfont.eot" crc="4063105686"/>
-    <file name="decoy-webfont.svg" crc="312874873"/>
-    <file name="opensans-bolditalic-webfont.woff" crc="8274206"/>
-    <file name="opensans-bolditalic-webfont.eot" crc="361405528"/>
-    <file name="opensans-bolditalic-webfont.svg" crc="4196070372"/>
+    <file name="opensans-regular.woff" crc="3819783335"/>
+    <file name="anyconv.com__opensans-regular.eot" crc="49158747"/>
+    <file name="opensans-bold.woff" crc="267279282"/>
+    <file name="anyconv.com__opensans-bold.eot" crc="3886520683"/>
+    <file name="opensans-regular.woff" crc="3819783335"/>
+    <file name="anyconv.com__opensans-regular.eot" crc="49158747"/>
+    <file name="opensans-bold.woff" crc="267279282"/>
+    <file name="anyconv.com__opensans-bold.eot" crc="3886520683"/>
+    <file name="opensans-bolditalic.woff" crc="4153238140"/>
+    <file name="anyconv.com__opensans-bolditalic.eot" crc="3800800694"/>
+    <file name="opensans-regular.woff" crc="3819783335"/>
+    <file name="anyconv.com__opensans-regular.eot" crc="49158747"/>
+    <file name="opensans-bold.woff" crc="267279282"/>
+    <file name="anyconv.com__opensans-bold.eot" crc="3886520683"/>
+    <file name="opensans-regular.woff" crc="3819783335"/>
+    <file name="anyconv.com__opensans-regular.eot" crc="49158747"/>
+    <file name="opensans-bold.woff" crc="267279282"/>
+    <file name="anyconv.com__opensans-bold.eot" crc="3886520683"/>
+    <file name="opensans-bold.woff" crc="267279282"/>
+    <file name="anyconv.com__opensans-bold.eot" crc="3886520683"/>
+    <file name="opensans-regular.woff" crc="3819783335"/>
+    <file name="anyconv.com__opensans-regular.eot" crc="49158747"/>
+    <file name="opensans-bold.woff" crc="267279282"/>
+    <file name="anyconv.com__opensans-bold.eot" crc="3886520683"/>
+    <file name="opensans-regular.woff" crc="3819783335"/>
+    <file name="anyconv.com__opensans-regular.eot" crc="49158747"/>
+    <file name="opensans-bold.woff" crc="267279282"/>
+    <file name="anyconv.com__opensans-bold.eot" crc="3886520683"/>
+    <file name="opensans-regular.woff" crc="3819783335"/>
+    <file name="anyconv.com__opensans-regular.eot" crc="49158747"/>
+    <file name="opensans-bold.woff" crc="267279282"/>
+    <file name="anyconv.com__opensans-bold.eot" crc="3886520683"/>
+    <file name="opensans-regular.woff" crc="3819783335"/>
+    <file name="anyconv.com__opensans-regular.eot" crc="49158747"/>
+    <file name="opensans-bolditalic.woff" crc="4153238140"/>
+    <file name="anyconv.com__opensans-bolditalic.eot" crc="3800800694"/>
+    <file name="opensans-bold.woff" crc="267279282"/>
+    <file name="anyconv.com__opensans-bold.eot" crc="3886520683"/>
+    <file name="opensans-regular.woff" crc="3819783335"/>
+    <file name="anyconv.com__opensans-regular.eot" crc="49158747"/>
+    <file name="opensans-regular.woff" crc="3819783335"/>
+    <file name="anyconv.com__opensans-regular.eot" crc="49158747"/>
+    <file name="opensans-bold.woff" crc="267279282"/>
+    <file name="anyconv.com__opensans-bold.eot" crc="3886520683"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:fonts:videos:graphicdesign:index-dark:design-dark:experiences-dark:typography-dark"/>
-    <file name="museutils.js" crc="3939489907" ref="index:fonts:videos:graphicdesign:index-dark:design-dark:experiences-dark:typography-dark"/>
-    <file name="whatinput.js" crc="86476730" ref="index:fonts:videos:graphicdesign:index-dark:design-dark:experiences-dark:typography-dark"/>
-    <file name="museconfig.js" crc="3936894949" ref="index:fonts:videos:graphicdesign:index-dark:design-dark:experiences-dark:typography-dark"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:fonts:videos:graphicdesign:index-dark:design-dark:experiences-dark:typography-dark"/>
-    <file name="require.js" crc="4177726516" ref="index:fonts:videos:graphicdesign:index-dark:design-dark:experiences-dark:typography-dark"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:fonts:videos:graphicdesign:index-dark:design-dark:experiences-dark:typography-dark:music-dark:music"/>
+    <file name="museutils.js" crc="3939489907" ref="index:fonts:videos:graphicdesign:index-dark:design-dark:experiences-dark:typography-dark:music-dark:music"/>
+    <file name="whatinput.js" crc="86476730" ref="index:fonts:videos:graphicdesign:index-dark:design-dark:experiences-dark:typography-dark:music-dark:music"/>
+    <file name="museconfig.js" crc="128606099" ref="index:fonts:videos:graphicdesign:index-dark:design-dark:experiences-dark:typography-dark:music-dark:music"/>
     <file name="webpro.js" crc="3856315280" ref="index:index-dark"/>
     <file name="musewpslideshow.js" crc="244150766" ref="index:index-dark"/>
     <file name="jquery.museoverlay.js" crc="3877667098" ref="index:index-dark"/>
     <file name="touchswipe.js" crc="3888935200" ref="index:index-dark"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:fonts:videos:graphicdesign:index-dark:design-dark:experiences-dark:typography-dark:music-dark:music"/>
+    <file name="require.js" crc="4177726516" ref="index:fonts:videos:graphicdesign:index-dark:design-dark:experiences-dark:typography-dark:music-dark:music"/>
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="143124211" ref="index"/>
-    <file name="dmc-logo-2020-01.png" crc="229643256" seo="true" ref="index:fonts:videos:graphicdesign">
-      <caption webpage="index" alt=""/>
-      <caption webpage="videos" alt=""/>
-      <caption webpage="graphicdesign" alt=""/>
-      <caption webpage="albumart" alt=""/>
+    <file name="me2.png" crc="4051556866" seo="true" ref="index:fonts:videos:graphicdesign:index-dark:design-dark:experiences-dark:typography-dark:music-dark:music">
       <caption webpage="fonts" alt=""/>
-      <caption webpage="wallpapers" alt=""/>
-    </file>
-    <file name="u11623-4.png" crc="272542989" ref="fonts"/>
-    <file name="u11648-10.png" crc="4141460648" ref="fonts"/>
-    <file name="is16.jpg" crc="3993622417" seo="true" ref="graphicdesign:design-dark">
-      <caption webpage="graphicdesign" alt=""/>
+      <caption webpage="typography-dark" alt=""/>
+      <caption webpage="index-dark" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="design-dark" alt=""/>
-    </file>
-    <file name="isat.jpg" crc="4158935222" seo="true" ref="graphicdesign:design-dark">
+      <caption webpage="experiences-dark" alt=""/>
       <caption webpage="graphicdesign" alt=""/>
-      <caption webpage="design-dark" alt=""/>
+      <caption webpage="music-dark" alt=""/>
     </file>
-    <file name="poster-2.jpg" crc="4047394423" seo="true" ref="graphicdesign:design-dark">
+    <file name="dmc-logo-2020-01.png" crc="229643256" seo="true" ref="index:fonts:videos:graphicdesign:music">
+      <caption webpage="index" alt=""/>
+      <caption webpage="fonts" alt=""/>
       <caption webpage="graphicdesign" alt=""/>
-      <caption webpage="design-dark" alt=""/>
-    </file>
-    <file name="posters-day.jpg" crc="3784054246" seo="true" ref="graphicdesign:design-dark">
-      <caption webpage="graphicdesign" alt=""/>
-      <caption webpage="design-dark" alt=""/>
-    </file>
-    <file name="shortcourses.jpg" crc="4218816986" seo="true" ref="graphicdesign:design-dark">
-      <caption webpage="graphicdesign" alt=""/>
-      <caption webpage="design-dark" alt=""/>
-    </file>
-    <file name="yn.jpg" crc="247230037" seo="true" ref="graphicdesign:design-dark">
-      <caption webpage="graphicdesign" alt=""/>
-      <caption webpage="design-dark" alt=""/>
-    </file>
-    <file name="4909-cd.jpg" crc="322441623" seo="true" ref="graphicdesign:design-dark">
-      <caption webpage="graphicdesign" alt=""/>
-      <caption webpage="design-dark" alt=""/>
-    </file>
-    <file name="defendr-logo-crop-u9555.jpg" crc="122600423" seo="true" ref="graphicdesign">
-      <caption webpage="graphicdesign" alt=""/>
-    </file>
-    <file name="2017-social-breakneck-crop-u9506.jpg" crc="296588002" seo="true" ref="graphicdesign">
-      <caption webpage="graphicdesign" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="videos" alt=""/>
     </file>
     <file name="000.gif" crc="4256985167" seo="true" ref="index:index-dark">
       <caption webpage="index" alt=""/>
@@ -846,25 +855,33 @@
       <caption webpage="index-dark" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:index-dark"/>
+    <file name="u11342-4.png" crc="4022365649" ref="fonts"/>
+    <file name="u11346-11.png" crc="4282646699" ref="fonts"/>
+    <file name="u11352-10.png" crc="438301829" ref="fonts"/>
+    <file name="u11623-4.png" crc="272542989" ref="fonts"/>
     <file name="u11645-19.png" crc="4066587944" ref="fonts"/>
+    <file name="u11648-10.png" crc="4141460648" ref="fonts"/>
     <file name="lights-out-favicon.ico" crc="143124211" ref="index-dark"/>
-    <file name="dmc-logo-2020-01-u24774.png" crc="3773307754" ref="index-dark:design-dark:experiences-dark:typography-dark"/>
-    <file name="defendr-logo-crop-u29182.jpg" crc="122600423" seo="true" ref="design-dark">
-      <caption webpage="design-dark" alt=""/>
-    </file>
-    <file name="2017-social-breakneck-crop-u29180.jpg" crc="296588002" seo="true" ref="design-dark">
-      <caption webpage="design-dark" alt=""/>
-    </file>
+    <file name="dmc-logo-2020-01-u24774.png" crc="283559932" ref="index-dark:design-dark:experiences-dark:typography-dark:music-dark"/>
+    <file name="u29312-4.png" crc="4109144750" ref="typography-dark"/>
+    <file name="u29307-11.png" crc="369918165" ref="typography-dark"/>
+    <file name="u29306-10.png" crc="3810678870" ref="typography-dark"/>
     <file name="u29354-4.png" crc="59378556" ref="typography-dark"/>
     <file name="u29303-19.png" crc="22630032" ref="typography-dark"/>
     <file name="u29313-10.png" crc="4156971985" ref="typography-dark"/>
+    <file name="polarisradio-logo_white.png" crc="3949222447" seo="true" ref="music-dark">
+      <caption webpage="music-dark" alt=""/>
+    </file>
+    <file name="polarisradio-logo_white-u29630.png" crc="4130567944" ref="music"/>
   </folder>
-  <file name="index.html" crc="121826063" seo="true" mt="1590232993411" redirect="true"/>
-  <file name="fonts.html" crc="178897187" seo="true" mt="1590232993411" redirect="true"/>
-  <file name="videos.html" crc="4108613529" seo="true" mt="1590232993411" redirect="true"/>
-  <file name="graphicdesign.html" crc="141728745" seo="true" mt="1590232993411" redirect="true"/>
-  <file name="index-dark.html" crc="4249085129" seo="true" mt="1590232669120" redirect="true"/>
-  <file name="design-dark.html" crc="17578590" seo="true" mt="1590232669120" redirect="true"/>
-  <file name="experiences-dark.html" crc="511931724" seo="true" mt="1590232669120" redirect="true"/>
-  <file name="typography-dark.html" crc="272940864" seo="true" mt="1590232669120" redirect="true"/>
+  <file name="index.html" crc="4253313452" seo="true" mt="1661159250160" redirect="true"/>
+  <file name="fonts.html" crc="4148816682" seo="true" mt="1661159250160" redirect="true"/>
+  <file name="videos.html" crc="3910743507" seo="true" mt="1661159250160" redirect="true"/>
+  <file name="graphicdesign.html" crc="463687079" seo="true" mt="1661159250160" redirect="true"/>
+  <file name="index-dark.html" crc="3918624619" seo="true" mt="1661159272840" redirect="true"/>
+  <file name="design-dark.html" crc="3885098956" seo="true" mt="1661159272840" redirect="true"/>
+  <file name="experiences-dark.html" crc="3950300717" seo="true" mt="1661159272840" redirect="true"/>
+  <file name="typography-dark.html" crc="4112358556" seo="true" mt="1661159272840" redirect="true"/>
+  <file name="music-dark.html" crc="3818676254" seo="true" mt="1661160030882" redirect="true"/>
+  <file name="music.html" crc="4067681250" seo="true" mt="1661159994718" redirect="true"/>
 </manifest>

@@ -2,9 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.deanmcreative.com/index.html</loc>
-    <lastmod>2020-05-23</lastmod>
+    <lastmod>2022-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/me2.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/dmc-logo-2020-01.png</image:loc>
     </image:image>
@@ -125,63 +128,48 @@
   </url>
   <url>
     <loc>http://www.deanmcreative.com/fonts.html</loc>
-    <lastmod>2020-05-23</lastmod>
+    <lastmod>2022-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/me2.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/dmc-logo-2020-01.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.deanmcreative.com/videos.html</loc>
-    <lastmod>2020-05-23</lastmod>
+    <lastmod>2022-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/me2.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/dmc-logo-2020-01.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.deanmcreative.com/graphicdesign.html</loc>
-    <lastmod>2020-05-23</lastmod>
+    <lastmod>2022-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
+      <image:loc>http://www.deanmcreative.com/images/me2.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.deanmcreative.com/images/dmc-logo-2020-01.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/is16.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/isat.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/poster-2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/posters-day.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/shortcourses.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/yn.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/4909-cd.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/defendr-logo-crop-u9555.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/2017-social-breakneck-crop-u9506.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.deanmcreative.com/index-dark.html</loc>
-    <lastmod>2020-05-23</lastmod>
+    <lastmod>2022-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/me2.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/000.gif</image:loc>
     </image:image>
@@ -299,47 +287,53 @@
   </url>
   <url>
     <loc>http://www.deanmcreative.com/design-dark.html</loc>
-    <lastmod>2020-05-23</lastmod>
+    <lastmod>2022-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.deanmcreative.com/images/is16.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/isat.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/poster-2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/posters-day.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/shortcourses.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/yn.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/4909-cd.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/defendr-logo-crop-u29182.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/2017-social-breakneck-crop-u29180.jpg</image:loc>
+      <image:loc>http://www.deanmcreative.com/images/me2.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.deanmcreative.com/experiences-dark.html</loc>
-    <lastmod>2020-05-23</lastmod>
+    <lastmod>2022-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/me2.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.deanmcreative.com/typography-dark.html</loc>
-    <lastmod>2020-05-23</lastmod>
+    <lastmod>2022-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/me2.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.deanmcreative.com/music-dark.html</loc>
+    <lastmod>2022-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/me2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/polarisradio-logo_white.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.deanmcreative.com/music.html</loc>
+    <lastmod>2022-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/me2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/dmc-logo-2020-01.png</image:loc>
+    </image:image>
   </url>
 </urlset>
