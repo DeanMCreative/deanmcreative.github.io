@@ -1,18 +1,14 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.deanmcreative.com" resolutions="1x" timestamp="1661160084084">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.deanmcreative.com" resolutions="1x" timestamp="1699360488485">
   <folder name="css">
     <file name="site_global.css" crc="3879776857"/>
-    <file name="master_lights-out.css" crc="4265804868" ref="typography-dark:index-dark:music-dark:design-dark:experiences-dark"/>
-    <file name="master_a-master.css" crc="3761507080" ref="fonts:videos:music:graphicdesign:index"/>
-    <file name="typography-dark.css" crc="477542974" ref="typography-dark"/>
-    <file name="index-dark.css" crc="361798819" ref="index-dark"/>
-    <file name="fonts.css" crc="189516366" ref="fonts"/>
-    <file name="music-dark.css" crc="193995182" ref="music-dark"/>
-    <file name="design-dark.css" crc="291609460" ref="design-dark"/>
-    <file name="videos.css" crc="283966725" ref="videos"/>
-    <file name="music.css" crc="110281598" ref="music"/>
-    <file name="experiences-dark.css" crc="3768531555" ref="experiences-dark"/>
-    <file name="graphicdesign.css" crc="4075212829" ref="graphicdesign"/>
-    <file name="index.css" crc="459451196" ref="index"/>
+    <file name="master_a-master.css" crc="3839151731" ref="music:index:experiences:typography:photography:design:creativity"/>
+    <file name="music.css" crc="4222312060" ref="music"/>
+    <file name="index.css" crc="3785636016" ref="index"/>
+    <file name="experiences.css" crc="3865650495" ref="experiences"/>
+    <file name="typography.css" crc="3790354901" ref="typography"/>
+    <file name="photography.css" crc="393222235" ref="photography"/>
+    <file name="design.css" crc="4031751235" ref="design"/>
+    <file name="creativity.css" crc="99022813" ref="creativity"/>
   </folder>
   <folder name="fonts">
     <file name="opensans-regular.woff" crc="3819783335"/>
@@ -59,41 +55,28 @@
     <file name="anyconv.com__opensans-regular.eot" crc="49158747"/>
     <file name="opensans-bold.woff" crc="267279282"/>
     <file name="anyconv.com__opensans-bold.eot" crc="3886520683"/>
+    <file name="librebaskerville-bold.woff" crc="4251001421"/>
+    <file name="librebaskerville-bold.eot" crc="3886529783"/>
+    <file name="librebaskerville-bold.svg" crc="3845736796"/>
+    <file name="librebaskerville-regular.woff" crc="4221902465"/>
+    <file name="librebaskerville-regular.eot" crc="229826207"/>
+    <file name="librebaskerville-regular.svg" crc="268701045"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:fonts:videos:graphicdesign:index-dark:design-dark:experiences-dark:typography-dark:music-dark:music"/>
-    <file name="museutils.js" crc="3939489907" ref="index:fonts:videos:graphicdesign:index-dark:design-dark:experiences-dark:typography-dark:music-dark:music"/>
-    <file name="whatinput.js" crc="86476730" ref="index:fonts:videos:graphicdesign:index-dark:design-dark:experiences-dark:typography-dark:music-dark:music"/>
-    <file name="museconfig.js" crc="128606099" ref="index:fonts:videos:graphicdesign:index-dark:design-dark:experiences-dark:typography-dark:music-dark:music"/>
-    <file name="webpro.js" crc="3856315280" ref="index:index-dark"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="index:index-dark"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:index-dark"/>
-    <file name="touchswipe.js" crc="3888935200" ref="index:index-dark"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:fonts:videos:graphicdesign:index-dark:design-dark:experiences-dark:typography-dark:music-dark:music"/>
-    <file name="require.js" crc="4177726516" ref="index:fonts:videos:graphicdesign:index-dark:design-dark:experiences-dark:typography-dark:music-dark:music"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:music:typography:experiences:design:photography:creativity"/>
+    <file name="museutils.js" crc="3939489907" ref="index:music:typography:experiences:design:photography:creativity"/>
+    <file name="whatinput.js" crc="86476730" ref="index:music:typography:experiences:design:photography:creativity"/>
+    <file name="museconfig.js" crc="128606099" ref="index:music:typography:experiences:design:photography:creativity"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:music:typography:experiences:design:photography:creativity"/>
+    <file name="require.js" crc="4177726516" ref="index:music:typography:experiences:design:photography:creativity"/>
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="143124211" ref="index"/>
-    <file name="me2.png" crc="4051556866" seo="true" ref="index:fonts:videos:graphicdesign:index-dark:design-dark:experiences-dark:typography-dark:music-dark:music">
-      <caption webpage="fonts" alt=""/>
-      <caption webpage="typography-dark" alt=""/>
-      <caption webpage="index-dark" alt=""/>
-      <caption webpage="music" alt=""/>
-      <caption webpage="videos" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="design-dark" alt=""/>
-      <caption webpage="experiences-dark" alt=""/>
-      <caption webpage="graphicdesign" alt=""/>
-      <caption webpage="music-dark" alt=""/>
-    </file>
-    <file name="dmc-logo-2020-01.png" crc="229643256" seo="true" ref="index:fonts:videos:graphicdesign:music">
-      <caption webpage="index" alt=""/>
-      <caption webpage="fonts" alt=""/>
-      <caption webpage="graphicdesign" alt=""/>
-      <caption webpage="music" alt=""/>
-      <caption webpage="videos" alt=""/>
-    </file>
-    <file name="000.gif" crc="4256985167" seo="true" ref="index:index-dark">
+    <file name="000.gif" crc="4256985167" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -113,8 +96,8 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:index-dark"/>
-    <file name="00.gif" crc="515050789" seo="true" ref="index:index-dark">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="00.gif" crc="515050789" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -134,7 +117,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="1.gif" crc="110296553" seo="true" ref="index:index-dark">
+    <file name="1.gif" crc="110296553" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -154,7 +137,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="2.gif" crc="4128221891" seo="true" ref="index:index-dark">
+    <file name="2.gif" crc="4128221891" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -174,7 +157,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="3.gif" crc="376302920" seo="true" ref="index:index-dark">
+    <file name="3.gif" crc="376302920" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -194,7 +177,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="4.gif" crc="382867163" seo="true" ref="index:index-dark">
+    <file name="4.gif" crc="382867163" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -214,7 +197,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="5.gif" crc="4237052541" seo="true" ref="index:index-dark">
+    <file name="5.gif" crc="4237052541" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -234,7 +217,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="6.gif" crc="332696853" seo="true" ref="index:index-dark">
+    <file name="6.gif" crc="332696853" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -254,7 +237,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="7.gif" crc="110615039" seo="true" ref="index:index-dark">
+    <file name="7.gif" crc="110615039" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -274,7 +257,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="8.gif" crc="4059244866" seo="true" ref="index:index-dark">
+    <file name="8.gif" crc="4059244866" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -294,7 +277,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="9.gif" crc="4029719848" seo="true" ref="index:index-dark">
+    <file name="9.gif" crc="4029719848" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -314,7 +297,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="11.gif" crc="400146152" seo="true" ref="index:index-dark">
+    <file name="11.gif" crc="400146152" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -334,7 +317,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="22.gif" crc="4079910426" seo="true" ref="index:index-dark">
+    <file name="22.gif" crc="4079910426" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -354,7 +337,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="33.gif" crc="3858745155" seo="true" ref="index:index-dark">
+    <file name="33.gif" crc="3858745155" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -374,7 +357,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="44.gif" crc="4130584506" seo="true" ref="index:index-dark">
+    <file name="44.gif" crc="4130584506" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -394,7 +377,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="55.gif" crc="3868070649" seo="true" ref="index:index-dark">
+    <file name="55.gif" crc="3868070649" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -414,7 +397,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="66.gif" crc="157677219" seo="true" ref="index:index-dark">
+    <file name="66.gif" crc="157677219" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -434,7 +417,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="77.gif" crc="4211919239" seo="true" ref="index:index-dark">
+    <file name="77.gif" crc="4211919239" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -454,7 +437,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="88.gif" crc="4281843276" seo="true" ref="index:index-dark">
+    <file name="88.gif" crc="4281843276" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -474,7 +457,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="99.gif" crc="295264253" seo="true" ref="index:index-dark">
+    <file name="99.gif" crc="295264253" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -494,7 +477,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="111.gif" crc="4026875058" seo="true" ref="index:index-dark">
+    <file name="111.gif" crc="4026875058" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -514,7 +497,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="222.gif" crc="3853051272" seo="true" ref="index:index-dark">
+    <file name="222.gif" crc="3853051272" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -534,7 +517,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="333.gif" crc="3807520783" seo="true" ref="index:index-dark">
+    <file name="333.gif" crc="3807520783" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -554,7 +537,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="444.gif" crc="436818224" seo="true" ref="index:index-dark">
+    <file name="444.gif" crc="436818224" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -574,7 +557,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="555.gif" crc="374145516" seo="true" ref="index:index-dark">
+    <file name="555.gif" crc="374145516" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -594,7 +577,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="666.gif" crc="3956935360" seo="true" ref="index:index-dark">
+    <file name="666.gif" crc="3956935360" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -614,7 +597,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="777.gif" crc="35006208" seo="true" ref="index:index-dark">
+    <file name="777.gif" crc="35006208" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -634,7 +617,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="888.gif" crc="3854469297" seo="true" ref="index:index-dark">
+    <file name="888.gif" crc="3854469297" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -654,7 +637,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="999.gif" crc="442338402" seo="true" ref="index:index-dark">
+    <file name="999.gif" crc="442338402" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -674,7 +657,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="1111.gif" crc="263891747" seo="true" ref="index:index-dark">
+    <file name="1111.gif" crc="263891747" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -694,7 +677,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="2222.gif" crc="4258721336" seo="true" ref="index:index-dark">
+    <file name="2222.gif" crc="4258721336" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -714,7 +697,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="3333.gif" crc="519434274" seo="true" ref="index:index-dark">
+    <file name="3333.gif" crc="519434274" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -734,7 +717,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="4444.gif" crc="3859456469" seo="true" ref="index:index-dark">
+    <file name="4444.gif" crc="3859456469" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -754,7 +737,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="5555.gif" crc="4272545490" seo="true" ref="index:index-dark">
+    <file name="5555.gif" crc="4272545490" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -774,7 +757,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="6666.gif" crc="376513555" seo="true" ref="index:index-dark">
+    <file name="6666.gif" crc="376513555" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -794,7 +777,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="7777.gif" crc="4046701221" seo="true" ref="index:index-dark">
+    <file name="7777.gif" crc="4046701221" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -814,7 +797,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="8888.gif" crc="236989671" seo="true" ref="index:index-dark">
+    <file name="8888.gif" crc="236989671" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -834,7 +817,7 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="9999.gif" crc="4101654763" seo="true" ref="index:index-dark">
+    <file name="9999.gif" crc="4101654763" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -854,34 +837,116 @@
       <caption webpage="index-dark" alt=""/>
       <caption webpage="index-dark" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index:index-dark"/>
-    <file name="u11342-4.png" crc="4022365649" ref="fonts"/>
-    <file name="u11346-11.png" crc="4282646699" ref="fonts"/>
-    <file name="u11352-10.png" crc="438301829" ref="fonts"/>
-    <file name="u11623-4.png" crc="272542989" ref="fonts"/>
-    <file name="u11645-19.png" crc="4066587944" ref="fonts"/>
-    <file name="u11648-10.png" crc="4141460648" ref="fonts"/>
-    <file name="lights-out-favicon.ico" crc="143124211" ref="index-dark"/>
-    <file name="dmc-logo-2020-01-u24774.png" crc="283559932" ref="index-dark:design-dark:experiences-dark:typography-dark:music-dark"/>
-    <file name="u29312-4.png" crc="4109144750" ref="typography-dark"/>
-    <file name="u29307-11.png" crc="369918165" ref="typography-dark"/>
-    <file name="u29306-10.png" crc="3810678870" ref="typography-dark"/>
-    <file name="u29354-4.png" crc="59378556" ref="typography-dark"/>
-    <file name="u29303-19.png" crc="22630032" ref="typography-dark"/>
-    <file name="u29313-10.png" crc="4156971985" ref="typography-dark"/>
-    <file name="polarisradio-logo_white.png" crc="3949222447" seo="true" ref="music-dark">
-      <caption webpage="music-dark" alt=""/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u11342-4.png" crc="3988940171" ref="typography"/>
+    <file name="u11346-11.png" crc="239716211" ref="typography"/>
+    <file name="u11352-10.png" crc="4134572018" ref="typography"/>
+    <file name="u11623-4.png" crc="272542989" ref="typography"/>
+    <file name="u11645-19.png" crc="3872920783" ref="typography"/>
+    <file name="u11648-10.png" crc="4223641176" ref="typography"/>
+    <file name="polarisradio-logo_white-u29630.png" crc="4199309733" ref="music"/>
+    <file name="364747382_732915562176918_8159758146887472020_n.jpg" crc="3862797988" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
     </file>
-    <file name="polarisradio-logo_white-u29630.png" crc="4130567944" ref="music"/>
+    <file name="397780233_792176769584130_4859456342074617319_n.jpg" crc="4003038756" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="337356501_6340551162676062_7936188478855024183_n.jpg" crc="3971720936" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="355085620_205859982415358_1929221564994375496_n.jpg" crc="4146059357" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="glow1.jpg" crc="4260780647" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="glow2.jpg" crc="6706897" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="is16.jpg" crc="3993622417" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="isat.jpg" crc="4158935222" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="yn.jpg" crc="247230037" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="pasted image 1440x1079.jpg" crc="188722506" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="pasted image 1448x2048-crop-u30194.jpg" crc="3853706740" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="pasted image 1080x1080-crop-u30184.jpg" crc="4141670377" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="pasted image 2048x1546.jpg" crc="3820822184" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="pasted image 1080x1080-crop-u30164.jpg" crc="5587839" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="pasted image 2048x2048-crop-u30227.jpg" crc="222682011" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="pasted image 1152x2048-crop-u30217.jpg" crc="4201808998" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="pasted image 1190x1190-crop-u30207.jpg" crc="35773061" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_2203.jpg" crc="425290911" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_3699.jpg" crc="4169991567" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_3737.jpg" crc="393310735" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_3645.jpg" crc="345688851" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_3684.jpg" crc="517382571" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_1954 copy.jpg" crc="51430730" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="untitled-2 copy.jpg" crc="3900407555" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_3238.jpg" crc="401478729" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_3642.jpg" crc="4089830804" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="table.jpg" crc="3778017435" seo="true" ref="creativity">
+      <caption webpage="creativity" alt=""/>
+    </file>
+    <file name="img_0826.jpg" crc="4294126904" seo="true" ref="creativity">
+      <caption webpage="creativity" alt=""/>
+    </file>
+    <file name="02-dome.jpg" crc="3815694512" seo="true" ref="creativity">
+      <caption webpage="creativity" alt=""/>
+    </file>
+    <file name="pasted image 1944x984.jpg" crc="142276766" seo="true" ref="creativity">
+      <caption webpage="creativity" alt=""/>
+    </file>
+    <file name="pasted image 1230x988.jpg" crc="4235162779" seo="true" ref="creativity">
+      <caption webpage="creativity" alt=""/>
+    </file>
+    <file name="hydra.jpg" crc="3764362124" seo="true" ref="creativity">
+      <caption webpage="creativity" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4253313452" seo="true" mt="1661159250160" redirect="true"/>
-  <file name="fonts.html" crc="4148816682" seo="true" mt="1661159250160" redirect="true"/>
-  <file name="videos.html" crc="3910743507" seo="true" mt="1661159250160" redirect="true"/>
-  <file name="graphicdesign.html" crc="463687079" seo="true" mt="1661159250160" redirect="true"/>
-  <file name="index-dark.html" crc="3918624619" seo="true" mt="1661159272840" redirect="true"/>
-  <file name="design-dark.html" crc="3885098956" seo="true" mt="1661159272840" redirect="true"/>
-  <file name="experiences-dark.html" crc="3950300717" seo="true" mt="1661159272840" redirect="true"/>
-  <file name="typography-dark.html" crc="4112358556" seo="true" mt="1661159272840" redirect="true"/>
-  <file name="music-dark.html" crc="3818676254" seo="true" mt="1661160030882" redirect="true"/>
-  <file name="music.html" crc="4067681250" seo="true" mt="1661159994718" redirect="true"/>
+  <file name="index.html" crc="104812634" seo="true" mt="1699357230035" redirect="true"/>
+  <file name="music.html" crc="4232762655" seo="true" mt="1699357230035" redirect="true"/>
+  <file name="typography.html" crc="3870926885" seo="true" mt="1699357230035" redirect="true"/>
+  <file name="experiences.html" crc="3825510440" seo="true" mt="1699357230035" redirect="true"/>
+  <file name="design.html" crc="168025372" seo="true" mt="1699357230035" redirect="true"/>
+  <file name="photography.html" crc="4220933415" seo="true" mt="1699357230035" redirect="true"/>
+  <file name="creativity.html" crc="424762679" seo="true" mt="1699360346136" redirect="true"/>
 </manifest>
