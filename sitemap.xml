@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.deanmcreative.com/index.html</loc>
-    <lastmod>2023-11-08</lastmod>
+    <lastmod>2024-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -121,26 +121,26 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.deanmcreative.com/music.html</loc>
-    <lastmod>2023-11-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.deanmcreative.com/typography.html</loc>
-    <lastmod>2023-11-08</lastmod>
+    <lastmod>2024-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/decoy-dmc-examples-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.deanmcreative.com/images/pp-play-01.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.deanmcreative.com/experiences.html</loc>
-    <lastmod>2023-11-08</lastmod>
+    <lastmod>2024-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.deanmcreative.com/design.html</loc>
-    <lastmod>2023-11-08</lastmod>
+    <lastmod>2024-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -181,8 +181,14 @@
     </image:image>
   </url>
   <url>
+    <loc>http://www.deanmcreative.com/music.html</loc>
+    <lastmod>2024-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.deanmcreative.com/photography.html</loc>
-    <lastmod>2023-11-08</lastmod>
+    <lastmod>2024-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -230,7 +236,7 @@
   </url>
   <url>
     <loc>http://www.deanmcreative.com/creativity.html</loc>
-    <lastmod>2023-11-08</lastmod>
+    <lastmod>2024-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -247,9 +253,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.deanmcreative.com/images/pasted%20image%201230x988.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.deanmcreative.com/images/hydra.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
